@@ -1,0 +1,7 @@
+video,formato,turnos,salida,cache_escrita,cache_leida,total,duracion_s,millones_por_min,pct_cache_leida
+sesion-2,youtube,259,174381,592626,67849353,68616886,846.9,4.9,98.9
+sesion-3,youtube,221,164645,816736,41558448,42540363,567.4,4.5,97.7
+sesion-1,youtube,187,129313,975465,39429405,40534565,1595.4,1.5,97.3
+invitacion-sesion-3,reel,83,63877,128350,24787744,24980158,57.9,25.9,99.2
+invitacion-sesion-2,reel,69,51711,86606,20136993,20275458,41.3,29.5,99.3
+invitacion-nivelacion,reel,23,13489,41085,3049904,3104524,46.1,4.0,98.2
